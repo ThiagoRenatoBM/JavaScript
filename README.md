@@ -1,2 +1,2 @@
 # JavaScript
- Meu estudos de Javascript
+ Meu estudos de Javascript com gustavo guanabara
